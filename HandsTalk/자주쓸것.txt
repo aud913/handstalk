@@ -1,0 +1,6 @@
+이미지랑 글 쓸때
+
+<div  class="container"><hr>
+<div class="well well-sm"><h2 class="white" float="left"> 제목영역</h2></div><br>
+<blockquote><h5><img src="/HandsTalk/2.jpg" style="margin-left:10px;" class="img-rounded" width="200" height="200" align="right"/>설명영역 </h5></blockquote>
+</div>
